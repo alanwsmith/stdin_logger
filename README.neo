@@ -1,0 +1,15 @@
+-- title
+
+STDIN Logger
+
+I'm trying to solve an issue with 
+rust-analyzer not providing semantic 
+tokens as expected. The process works
+with JSON-RPC running over STDIN/STDOUT.
+Since things are working in Neovim I'm
+setting this up as a temporary replacement
+to see what it's sending that I'm not. 
+
+
+
+
